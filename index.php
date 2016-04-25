@@ -3,7 +3,7 @@ header("Cache-Control: no-cache, must-revalidate");
 /* header("Cache-Control: max-age=604800"); */ /* in seconds */
 include 'config.php';
 
-echo "Test application for Database and NFS and caching. Version of the 06/10/2015 <br/>";
+echo "Test application for Database and NFS and caching. Version of the 25/04/2015 <br/>";
 echo "Main page is no-cache <br/> <br/>";
 
 /* test Database */
